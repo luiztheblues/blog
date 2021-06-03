@@ -30,11 +30,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: takusuman 
 
 # Build settings
-remote_theme: takusuman/jekyll-theme-console
 style: plan9
+remote_theme: takusuman/jekyll-theme-console
 plugins:
   - jekyll-feed
 
+footer: 'Meu website: http://pindorama.tk/~luiz'
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
